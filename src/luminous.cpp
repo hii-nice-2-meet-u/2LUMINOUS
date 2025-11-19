@@ -3,7 +3,7 @@
 /*
  *
  *	File		:	luminous.cpp
- *	Release		:	v1.0
+ *	Release		:	v1.0.0
  *
  *	Created on	:	 Wed 19 Nov 2025
  *		Author	:	hii-nice-2-meet-u
